@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awais-ahmad-nasar&label=Profile%20views&color=0e75b6&style=flat" alt="awais-ahmad-nasar" /> </p>
 
-- 🌱 I’m currently learning **M.L , N.L.P , ReactNative , C.V**
+- 🌱 Currently Working on **Machine Learnig , NLP , ReactNative , ComputerVision**
 
 - 📫 How to reach me **awaisbiit4415@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZypEL1RSBxHEmeJUXlHFpPVOUGjqu8El/view?usp=drive_link](https://drive.google.com/file/d/1ZypEL1RSBxHEmeJUXlHFpPVOUGjqu8El/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm Funny😸**
 
