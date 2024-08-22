@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **awaisbiit4415@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZypEL1RSBxHEmeJUXlHFpPVOUGjqu8El/view?usp=drive_link](https://drive.google.com/file/d/1ZypEL1RSBxHEmeJUXlHFpPVOUGjqu8El/view?usp=drive_link)
+- 📄 Resume https://drive.google.com/file/d/1BBs8vPhkFvoQStD-MNVylRNr7fNMrmRz/view?usp=sharing
 
 - ⚡ Fun fact **Funny😸**
 
